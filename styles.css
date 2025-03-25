@@ -1,4 +1,14 @@
 body{
-    background-color:#80808f;
-    color:#272b2b;
+    background-color:#080c0f;
+}
+header{
+    background-color:#131718;
+    color:#ffffff;
+    margin:24px;
+    margin-left:50px;
+    padding:20px;
+    padding-left:px;
+}
+header h3{
+    color:#828aa3;
 }
